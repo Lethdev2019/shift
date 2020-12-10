@@ -1,0 +1,19 @@
+{
+  "name": "shift-db",
+  "version": "1.4.8",
+  "description": "Use JSON easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test",
+    "prepublish": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0"
+  },
+  "keywords": [
+    "json",
+    "database"
+  ]
+}
